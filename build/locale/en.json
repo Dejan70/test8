@@ -1,0 +1,44 @@
+{
+  "text.login": "Login",
+
+  "text.register": "Register",
+
+  "text.email": "Email",
+  "text.user_fname": "Name",
+  "text.user_lname": "Surname",
+  "text.user_phone": "Phone",
+  "btn.register": "Register",
+
+  "text.sign_in": "Sign in",
+
+  "text.please_login": "Please login account in below. If you do not have account please",
+
+  "text.or_create_account": " create one here",
+
+  "text.register_success": "Register Success",
+
+  "text.back_to_login": "Back to login",
+
+  "text.dashboard": "Dashboard",
+
+  "btn.back_to_login": "Back to login",
+
+  "reset_password.no_match": "Passwords do not match",
+  "text.choose_password": "Choose password",
+
+  "btn.create_password": "Create password",
+  "btn.reset_password": "Reset password",
+  "create_password.success": "Create password success",
+  "reset_password.success": "Reset password success",
+
+  "field.placeholder.new_password": "New password",
+  "field.placeholder.password_confirm": "Password confirm",
+
+  "invalid_client": "Invalid username or password",
+
+  "app.close": "Close",
+
+  "app.logout": "Logout",
+
+  "app.no_data": "No data"
+}
